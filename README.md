@@ -1,2 +1,1 @@
-# EjercicioCarlosGIT
-Juego de ADIVINAR un NUMERO CON UN CONTADOR
+
